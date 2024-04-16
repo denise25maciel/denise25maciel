@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ##
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denise25maciel_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denise25maciel)
  ##
  
 <div style="display: inline_block"><br>
