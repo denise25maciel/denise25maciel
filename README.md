@@ -9,7 +9,7 @@ Spanish: basic.
 Portuguese: fluent.
 
 
-ENPHASIS ROLES:
+KEY ROLES:
 - University professor at Senac University - Course Analysis and Systems Development (https://www.pr.senac.br/faculdade/ponta-grossa/8).
 Disciplines: data modeling, recovery data base information, requirements engineering.
   
