@@ -1,6 +1,6 @@
 ### Hi there 👋
-I’m currently working as professor at Senac University - Course Analysis and Systems Development.  Due to my personal interest, I've been learning about statistics, machine learning, fundamentals of data security, and accountability/ finances (I was studying to the federal police role). My master degree was applied to the UX designer, but I'm currently studying the opportunities to apply to the doctoral degree at data science. 
-Knowledge: Machine learning, statistics, UX designer, accountability, elementary concepts about finances, elementary concepts about security.
+I’m currently working as professor at Senac University - Course Analysis and Systems Development.  Due to my personal interest, I've been learning about statistics, machine learning, fundamentals of data security, and accountability (I was studying to the federal police role). My master degree was applied to the UX designer, but I'm currently studying the opportunities to apply to the doctoral degree at data science. 
+Knowledge: Machine learning, statistics, UX designer, accountability, elementary concepts about security.
 Technologies: Python, SQL, Power BI, C, Figma, elementary concepts of HTML, CSS and Javascript.
 
 LANGUAGES:
