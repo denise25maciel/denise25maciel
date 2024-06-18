@@ -3,27 +3,27 @@ I’m currently working as professor at Senac University - Course Analysis and S
 Knowledge: Machine learning, statistics, UX designer, accountability, elementary concepts about finances, elementary concepts about security.
 Technologies: Python, SQL, Power BI, C, Figma, elementary concepts of HTML, CSS and Javascript.
 
-- Languages:
-> English: advanced.
-> Spanish: basic.
-> Portuguese: fluent.
+LANGUAGES:
+English: advanced.
+Spanish: basic.
+Portuguese: fluent.
 
 
-- Emphasis roles:
- *University professor at Senac University - Course Analysis and Systems Development (https://www.pr.senac.br/faculdade/ponta-grossa/8).
-  Disciplines: data modeling, recovery data base information, requirements engineering.
+ENPHASIS ROLES:
+- University professor at Senac University - Course Analysis and Systems Development (https://www.pr.senac.br/faculdade/ponta-grossa/8).
+Disciplines: data modeling, recovery data base information, requirements engineering.
   
- *University professor at UTFPR University - Course Analysis and Systems Development, Computer Science, Engineering (https://www.utfpr.edu.br/campus/pontagrossa).
-  Disciplines: discrete mathematics, programming, data structure.
+- University professor at UTFPR University - Course Analysis and Systems Development, Computer Science, Engineering (https://www.utfpr.edu.br/campus/pontagrossa).
+Disciplines: discrete mathematics, programming, data structure.
 
- *High School professor at Seed and Bijus (https://www.educacao.pr.gov.br/).
-  Disciplines: fundamentals of web developing (HTML, CSS, Javascript), fundamentals of statistics (using python), fundamentals of machine learning (using python).
+- High School professor at Seed and Bijus (https://www.educacao.pr.gov.br/).
+Disciplines: fundamentals of web developing (HTML, CSS, Javascript), fundamentals of statistics (using python), fundamentals of machine learning (using python).
   
-*Instructor to online course at CREA (https://www.crea-pr.org.br/ws/).
- Disciplines: fundamentals of Agile Methodologies.
+- Instructor to online course at CREA (https://www.crea-pr.org.br/ws/).
+Disciplines: fundamentals of Agile Methodologies.
   
-*Programmer of accounting systems at X-adm and sulprog.
-  Languages: Delphi and Zim.
+- Programmer of accounting systems at X-adm and sulprog.
+Languages: Delphi and Zim.
 
 <!--
 **denise25maciel/denise25maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
